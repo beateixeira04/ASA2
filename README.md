@@ -43,5 +43,5 @@ g++ -std=c++11 -O3 -Wall main.cpp -o metro_connectivity
 Run the program with:
 ./metro_connectivity < input.txt
 
-Grading
+Grading:
 This project was graded 20/20, indicating a correct and efficient implementation.
